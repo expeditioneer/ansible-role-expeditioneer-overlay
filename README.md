@@ -1,3 +1,6 @@
+# DEPRECATED
+
+No longer maintained. Integrated into ansible collection [expeditioneer/ansible-collection-gentoo](expeditioneer/ansible-collection-gentoo).
 # Expeditioneer Overlay
 
 This role adds the [Expeditioneer Overlay](https://github.com/expeditioneer/gentoo-overlay) to the system.
